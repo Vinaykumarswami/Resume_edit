@@ -1,0 +1,322 @@
+{
+  "users": [
+    {
+      "id": "de90",
+      "username": "Atul Gathwala",
+      "email": "atulgathwala1728@gmail.com",
+      "password": "abc000",
+      "confirmPassword": "",
+      "isSubscribe": false,
+      "userImage": "http://res.cloudinary.com/dasa3kzyf/image/upload/v1763384455/uez9meqpchoqeemj6boc.jpg",
+      "address": {
+        "city": "Shamli",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "completeAddress": "House no.36\nSugar mill colony shamli"
+      },
+      "role": "admin",
+      "contact": "08218695087",
+      "dob": "2025-11-04",
+      "gender": "male",
+      "resume": {
+        "linkedIn": "mylinkedin.com",
+        "gitHub": "mygithub.com",
+        "expereince": [
+          {
+            "company": "my Company",
+            "years": "2",
+            "role": "Developer"
+          }
+        ],
+        "projects": [
+          {
+            "name": "Project1",
+            "technologies": "html, css, js , react js",
+            "description": "this is description of project"
+          }
+        ],
+        "certificates": [],
+        "education": {
+          "degree": "my degree",
+          "degpercentage": "33",
+          "degreeyop": "2045",
+          "college": "my univeristy",
+          "secondarypercentage": "56",
+          "secondaryYop": "2023",
+          "primarypercentage": "38",
+          "primaryYop": "2021"
+        },
+        "skills": [
+          "html",
+          "css",
+          "js"
+        ]
+      },
+      "oath": ""
+    },
+    {
+      "id": "5fbc",
+      "username": "Atul Gathwala",
+      "email": "atulgathwala1728@gmail.com",
+      "password": "abc000",
+      "confirmPassword": "abc000",
+      "isSubscribe": false,
+      "userImage": "/src/Assets/Images/userRegisterImage.png",
+      "address": {
+        "city": "",
+        "state": "",
+        "country": "",
+        "completeAddress": ""
+      },
+      "contact": "",
+      "dob": "",
+      "gender": "",
+      "resume": {
+        "linkedIn": "",
+        "gitHub": "",
+        "profile": "",
+        "expereince": [],
+        "projects": [],
+        "certificates": [],
+        "education": {
+          "degree": "",
+          "secondary": "",
+          "primary": "",
+          "diploma": ""
+        },
+        "skills": [],
+        "hobbies": [],
+        "achievements": []
+      },
+      "oath": ""
+    },
+    {
+      "id": "71ac",
+      "username": "Atul Gathwala",
+      "email": "atulgathwalaaa1728@gmail.com",
+      "password": "abc000",
+      "confirmPassword": "abc000",
+      "isSubscribe": false,
+      "userImage": "/src/Assets/Images/userRegisterImage.png",
+      "address": {
+        "city": "",
+        "state": "",
+        "country": "",
+        "completeAddress": ""
+      },
+      "contact": "",
+      "dob": "",
+      "gender": "",
+      "resume": {
+        "linkedIn": "",
+        "gitHub": "",
+        "profile": "",
+        "expereince": [],
+        "projects": [],
+        "certificates": [],
+        "education": {
+          "degree": "",
+          "secondary": "",
+          "primary": "",
+          "diploma": ""
+        },
+        "skills": [],
+        "hobbies": [],
+        "achievements": []
+      },
+      "oath": ""
+    },
+    {
+      "id": "3278",
+      "username": "shreeraj",
+      "email": "shree@gmail.com",
+      "password": "abc123",
+      "confirmPassword": "abc123",
+      "isSubscribe": false,
+      "userImage": "/src/Assets/Images/userRegisterImage.png",
+      "address": {
+        "city": "",
+        "state": "",
+        "country": "",
+        "completeAddress": ""
+      },
+      "contact": "",
+      "dob": "",
+      "gender": "",
+      "resume": {
+        "linkedIn": "",
+        "gitHub": "",
+        "profile": "",
+        "expereince": [],
+        "projects": [],
+        "certificates": [],
+        "education": {
+          "degree": "",
+          "secondary": "",
+          "primary": "",
+          "diploma": ""
+        },
+        "skills": [],
+        "hobbies": [],
+        "achievements": []
+      },
+      "oath": ""
+    },
+    {
+      "id": "3279",
+      "username": "Shawn Garcia",
+      "email": "shawngarcia@gmale.com",
+      "password": "abc123",
+      "confirmPassword": "abc123",
+      "isSubscribe": false,
+      "userImage": "/src/Assets/Images/DemoProfileImage.png",
+      "address": {
+        "city": "Any city",
+        "state": "any state",
+        "country": "any country",
+        "completeAddress": "123 anywhere street"
+      },
+      "contact": "0123456789",
+      "dob": "12/10/2002",
+      "gender": "female",
+      "resume": {
+        "linkedIn": "myLinkedIn.com",
+        "gitHub": "myGitHub.com",
+        "profile": "",
+        "expereince": [
+          {
+            "company": "my Company",
+            "years": "2",
+            "role": "Developer"
+          }
+        ],
+        "projects": [
+          {
+            "name": "Project1",
+            "technologies": "html, css, js , react js",
+            "description": "this is description of project"
+          }
+        ],
+        "certificates": [],
+        "education": {
+          "degree": "my degree",
+          "degpercentage": "33",
+          "degreeyop": "2045",
+          "college": "my univeristy",
+          "secondarypercentage": "56",
+          "secondaryYop": "2023",
+          "primarypercentage": "38",
+          "primaryYop": "2021"
+        },
+        "skills": [
+          "html",
+          "css",
+          "js",
+          "react js"
+        ],
+        "hobbies": [],
+        "achievements": []
+      },
+      "oath": ""
+    },
+    {
+      "id": "1245",
+      "username": "pragya",
+      "email": "pargya@gmail.com",
+      "password": "abc000",
+      "confirmPassword": "abc000",
+      "isSubscribe": false,
+      "userImage": "http://res.cloudinary.com/dasa3kzyf/image/upload/v1763382395/z3fbxh41gfaqj4qtqacs.png",
+      "address": {
+        "city": "",
+        "state": "",
+        "country": "",
+        "completeAddress": ""
+      },
+      "contact": "",
+      "dob": "",
+      "gender": "",
+      "resume": {
+        "linkedIn": "",
+        "gitHub": "",
+        "profile": "",
+        "expereince": [],
+        "projects": [],
+        "certificates": [],
+        "education": {
+          "degree": "",
+          "secondary": "",
+          "primary": "",
+          "diploma": ""
+        },
+        "skills": [],
+        "hobbies": [],
+        "achievements": []
+      },
+      "oath": ""
+    },
+    {
+      "id": "1cb4",
+      "username": "priya",
+      "email": "priya@priyapriya",
+      "password": "priya123",
+      "confirmPassword": "priya123",
+      "isSubscribe": false,
+      "userImage": "http://res.cloudinary.com/dasa3kzyf/image/upload/v1763883588/o7ecqk1amkztaog25vhn.png",
+      "address": {
+        "city": "",
+        "state": "",
+        "country": "",
+        "completeAddress": ""
+      },
+      "contact": "",
+      "dob": "",
+      "gender": "",
+      "resume": {
+        "linkedIn": "",
+        "gitHub": "",
+        "profile": "",
+        "expereince": [],
+        "projects": [],
+        "certificates": [],
+        "education": {
+          "degree": "",
+          "secondary": "",
+          "primary": "",
+          "diploma": ""
+        },
+        "skills": [],
+        "hobbies": [],
+        "achievements": []
+      },
+      "oath": ""
+    }
+  ],
+  "blockedUsers": [],
+  "All_templates": [
+    {
+      "id": "1",
+      "template": " FreeImgTemplate1 ",
+      "isPaid": false,
+      "thumbnail": "https://i.ibb.co/kVFSPCxg/Free-Img-Tempalte1.png"
+    },
+    {
+      "id": "2",
+      "template": "FreeTextTemplate2 ",
+      "isPaid": false,
+      "thumbnail": "https://i.ibb.co/FqNg5wdb/Free-Texttemplate2.png"
+    },
+    {
+      "id": "3",
+      "template": "PaidImgTemplate3 ",
+      "isPaid": true,
+      "thumbnail": "https://i.ibb.co/Vc4XQwKz/Paid-Imgtemplate3.png"
+    },
+    {
+      "id": "4",
+      "template": "PaidTextTemplate4 ",
+      "isPaid": true,
+      "thumbnail": "https://i.ibb.co/LXPMdcQM/Paid-Text-Temaplate4.png"
+    }
+  ]
+}
